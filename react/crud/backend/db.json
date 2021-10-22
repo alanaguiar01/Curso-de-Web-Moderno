@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@cod3r.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@empresa.com"
+    },
+    {
+      "name": "luciana",
+      "email": "luciana@emai.com",
+      "id": 4
+    },
+    {
+      "name": "giovani",
+      "email": "gih123@email.com",
+      "id": 5
+    }
+  ]
+}
